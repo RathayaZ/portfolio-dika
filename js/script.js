@@ -1,4 +1,5 @@
 // Toggle & Responsive Navigation
+
 const navSlide = () => {
   const burger = document.querySelector(".burger");
   const navLists = document.querySelector("nav");
